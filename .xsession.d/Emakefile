@@ -1,0 +1,2 @@
+{'nbh/src/*', [{outdir, "nbh/ebin/"}]}.
+{'fyzlab/src/*', [{outdir, "fyzlab/ebin/"}]}.
